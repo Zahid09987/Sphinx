@@ -22,41 +22,41 @@ msgstr ""
 
 #: ../../source/page2.rst:2
 msgid "This is page 2"
-msgstr ""
+msgstr "Ini adalah halaman 2"
 
 #: ../../source/page2.rst:5
 msgid "This is an example of a note admonition in my *Sphinx documentation*"
-msgstr ""
+msgstr "Ini adalah contoh peringatan dalam *dokumentasi Sphinx* saya"
 
 #: ../../source/page2.rst:10
 msgid "This is a warning admonition"
-msgstr ""
+msgstr "Ini adalah peringatan"
 
 #: ../../source/page2.rst:13
 msgid "**This is an example error message**"
-msgstr ""
+msgstr "**Ini adalah contoh pesan galat**"
 
 #: ../../source/page2.rst:15
 msgid "Custom Title"
-msgstr ""
+msgstr "Judul Kustom"
 
 #: ../../source/page2.rst:17
 msgid "This is a custom admonition block"
-msgstr ""
+msgstr "Ini adalah blok peringatan kustom"
 
 #: ../../source/page2.rst:27
 msgid "css"
-msgstr ""
+msgstr "css"
 
 #: ../../source/page2.rst:33
 msgid "js"
-msgstr ""
+msgstr "js"
 
 #: ../../source/page2.rst:37
 msgid "sql"
-msgstr ""
+msgstr "sql"
 
 #: ../../source/page2.rst:41
 msgid "php"
-msgstr ""
+msgstr "php"
 

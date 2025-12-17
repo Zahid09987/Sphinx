@@ -22,41 +22,41 @@ msgstr ""
 
 #: ../../source/page1.rst:3
 msgid "This is my 1\\ :sup:`st` Sphinx page"
-msgstr ""
+msgstr "Ini adalah halaman pertama Sphinx saya"
 
 #: ../../source/page1.rst:5
 msgid "This is my 1\\ :sup:`st` attempt at writing Sphinx documentation"
-msgstr ""
+msgstr "Ini adalah uji coba pertama saya dalam menulis dokumentasi Sphinx"
 
 #: ../../source/page1.rst:7
 msgid "First, I built a Sphinx documentation"
-msgstr ""
+msgstr "Pertama, saya membangun dokumentasi Sphinx"
 
 #: ../../source/page1.rst:8
 msgid "Then, I built my html pages"
-msgstr ""
+msgstr "Kemudian, saya membangun halaman html saya"
 
 #: ../../source/page1.rst:9
 msgid "I built them with the ``make html`` command"
-msgstr ""
+msgstr "Saya membangun mereka dengan perintah ``make html``"
 
 #: ../../source/page1.rst:12
 msgid "This is a 2\\ :sup:`nd` header"
-msgstr ""
+msgstr "Ini adalah tajuk 2"
 
 #: ../../source/page1.rst:14
 msgid "This is my test of the 2\\ :sup:`nd` header"
-msgstr ""
+msgstr "Ini adalah uji coba saya untuk tajuk 2"
 
 #: ../../source/page1.rst:16
 msgid "This is my new image that I uploaded"
-msgstr ""
+msgstr "Ini adalah gambar baru yang saya unggah"
 
 #: ../../source/page1.rst:18
 msgid "Otomachi Una image"
-msgstr ""
+msgstr "Gambar Otomachi Una"
 
 #: ../../source/page1.rst:23
 msgid "**This is an example of Una image with a caption**"
-msgstr ""
+msgstr "**Ini adalah contoh gambar Una dengan takarir**"
 

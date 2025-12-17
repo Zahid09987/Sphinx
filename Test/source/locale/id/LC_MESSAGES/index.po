@@ -22,11 +22,11 @@ msgstr ""
 
 #: ../../source/index.rst:14
 msgid "Part one"
-msgstr ""
+msgstr "Bagian satu"
 
 #: ../../source/index.rst:7
 msgid "This is my Test Project"
-msgstr ""
+msgstr "Ini adalah proyek saya"
 
 #: ../../source/index.rst:9
 msgid ""
@@ -34,5 +34,8 @@ msgid ""
 "`reStructuredText <https://www.sphinx-"
 "doc.org/en/master/usage/restructuredtext/index.html>`_ documentation for "
 "details."
-msgstr ""
+msgstr "Tambahkan konten Anda menggunakan sintaks ``reStructuredText``. Lihat "
+"`reStructuredText <https://www.sphinx-"
+"doc.org/en/master/usage/restructuredtext/index.html>`_ dokumentasi untuk "
+"detail."
 
