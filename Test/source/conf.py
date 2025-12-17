@@ -6,6 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
+import gettext
 project = 'test-project'
 copyright = '2025, Zahid Fakhri'
 author = 'Zahid Fakhri'
@@ -34,3 +35,9 @@ html_theme_options = {
     'titles_only': False
 }
 html_static_path = ['_static']
+
+# -- Localization -----------------------------------------------------------
+# https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-localization
+
+locale_dirs = ['locale/']
+gettext_compact = False
