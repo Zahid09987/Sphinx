@@ -16,3 +16,33 @@ This is page 2
 
     This is a custom admonition block
 
+
+.. code-block:: html
+
+    <p>Hello, world!</p>
+
+
+.. tabs:: lang
+
+    .. code-tab:: css
+
+        body {
+            background-color: #f0f0f0;
+        }
+
+    .. code-tab:: js
+
+        console.log("Say 'Hi' to Akari!")
+
+    .. code-tab:: sql
+
+        CREATE DATABASE test;
+
+    .. code-tab:: php
+
+        <?php
+        echo "Say 'Hi' to Miku!"
+        ?>
+
+
+
