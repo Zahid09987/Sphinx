@@ -37,5 +37,5 @@ msgid ""
 msgstr "Tambahkan konten Anda menggunakan sintaks ``reStructuredText``. Lihat "
 "`reStructuredText <https://www.sphinx-"
 "doc.org/en/master/usage/restructuredtext/index.html>`_ dokumentasi untuk "
-"detail."
+"rincian."
 
