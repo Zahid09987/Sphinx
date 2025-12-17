@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Zahid Fakhri
+# This file is distributed under the same license as the test-project package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: test-project \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-12-17 17:36+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/page2.rst:2
+msgid "This is page 2"
+msgstr ""
+
+#: ../../source/page2.rst:5
+msgid "This is an example of a note admonition in my *Sphinx documentation*"
+msgstr ""
+
+#: ../../source/page2.rst:10
+msgid "This is a warning admonition"
+msgstr ""
+
+#: ../../source/page2.rst:13
+msgid "**This is an example error message**"
+msgstr ""
+
+#: ../../source/page2.rst:15
+msgid "Custom Title"
+msgstr ""
+
+#: ../../source/page2.rst:17
+msgid "This is a custom admonition block"
+msgstr ""
+
+#: ../../source/page2.rst:27
+msgid "css"
+msgstr ""
+
+#: ../../source/page2.rst:33
+msgid "js"
+msgstr ""
+
+#: ../../source/page2.rst:37
+msgid "sql"
+msgstr ""
+
+#: ../../source/page2.rst:41
+msgid "php"
+msgstr ""
